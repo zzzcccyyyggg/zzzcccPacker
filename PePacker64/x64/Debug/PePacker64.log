@@ -1,0 +1,17 @@
+﻿  NewSection.c
+E:\CTF_Desktop\zzzccc_packer\AtomPePacker-main\zzzccc_packer\PePacker64\NewSection.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\CTF_Desktop\zzzccc_packer\AtomPePacker-main\zzzccc_packer\PePacker64\NewSection.c(22,2): warning C4091: “typedef ”: 没有声明变量时忽略“MyStruct”的左侧
+E:\CTF_Desktop\zzzccc_packer\AtomPePacker-main\zzzccc_packer\PePacker64\NewSection.c(161,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\CTF_Desktop\zzzccc_packer\AtomPePacker-main\zzzccc_packer\PePacker64\NewSection.c(208,14): warning C4047: “函数”:“char *”与“BYTE (*)[8]”的间接级别不同
+E:\CTF_Desktop\zzzccc_packer\AtomPePacker-main\zzzccc_packer\PePacker64\NewSection.c(208,14): warning C4024: “mymemcpy”: 形参和实参 1 的类型不同
+E:\CTF_Desktop\zzzccc_packer\AtomPePacker-main\zzzccc_packer\PePacker64\NewSection.c(229,14): warning C4047: “函数”:“char *”与“BYTE (*)[8]”的间接级别不同
+E:\CTF_Desktop\zzzccc_packer\AtomPePacker-main\zzzccc_packer\PePacker64\NewSection.c(229,14): warning C4024: “mymemcpy”: 形参和实参 1 的类型不同
+E:\CTF_Desktop\zzzccc_packer\AtomPePacker-main\zzzccc_packer\PePacker64\NewSection.c(299,24): warning C4047: “!=”:“DWORD”与“void *”的间接级别不同
+  PePacker.c
+E:\CTF_Desktop\zzzccc_packer\AtomPePacker-main\zzzccc_packer\PePacker64\PePacker.c(45,48): warning C4047: “!=”:“DWORD”与“void *”的间接级别不同
+E:\CTF_Desktop\zzzccc_packer\AtomPePacker-main\zzzccc_packer\PePacker64\PePacker.c(22,8): warning C4047: “初始化”:“DWORD”与“void *”的间接级别不同
+E:\CTF_Desktop\zzzccc_packer\AtomPePacker-main\zzzccc_packer\PePacker64\PePacker.c(23,8): warning C4047: “初始化”:“DWORD”与“void *”的间接级别不同
+  正在生成代码...
+E:\CTF_Desktop\zzzccc_packer\AtomPePacker-main\zzzccc_packer\PePacker64\NewSection.c(158): warning C4715: “FixImportTable”: 不是所有的控件路径都返回值
+E:\CTF_Desktop\zzzccc_packer\AtomPePacker-main\zzzccc_packer\PePacker64\NewSection.c(278): warning C4715: “AppendNewSectionHeader”: 不是所有的控件路径都返回值
+  PePacker64.vcxproj -> E:\CTF_Desktop\zzzccc_packer\AtomPePacker-main\zzzccc_packer\x64\Debug\PePacker.exe
